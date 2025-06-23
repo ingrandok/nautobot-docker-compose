@@ -307,3 +307,6 @@ invoke.yml
 
 # Jobs
 jobs/*
+
+# Plugins
+plugins/*

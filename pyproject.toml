@@ -10,6 +10,8 @@ nautobot = "2.4.10"
 
 # nautobot-example-plugin = {path = "plugins/plugin_example", develop = true}
 nautobot-dns-models = "^1.1.0"
+nautobot-ssot = "^3.8.1"
+oit-netops-nautobot-ssot-dns = {path = "plugins/oit_netops_nautobot_ssot_dns", develop = true}
 
 
 [tool.poetry.dev-dependencies]
